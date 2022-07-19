@@ -1,0 +1,20 @@
+
+.btn{
+    border: none;
+  outline: none;
+  width: 100%;
+  padding: 15px 0;
+  color: #fff;
+  font-size: 16px;
+  letter-spacing: 1px;
+  cursor: pointer;
+}
+
+h2{
+    padding: 15px;
+    font-size: medium;
+    text-align: center;
+    border: none;
+    outline: none;
+}
+

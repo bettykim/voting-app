@@ -1,0 +1,21 @@
+[
+    {
+        "_id": 1,
+        "name": "Steve",
+        "image": "depsec1.png",
+        "votes":0
+    },
+    {
+        "_id": 2,
+        "name": "Lauren",
+        "image": "depsec2.png",
+        "votes":0
+    },
+    {
+        "_id": 3,
+        "name": "Harvy",
+        "image": "depsec3.png",
+        "votes":0
+        
+    }
+]

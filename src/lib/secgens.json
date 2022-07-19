@@ -1,0 +1,20 @@
+[
+    {
+        "_id": 1,
+        "name": "Mark",
+        "image": "sec1.png",
+        "votes":0
+    },
+    {
+        "_id": 2,
+        "name": "Jenny",
+        "image": "sec2.png",
+        "votes":0
+    },
+    {
+        "_id": 3,
+        "name": "Oliver",
+        "image": "sec3.png",
+        "votes":0
+    }
+]
